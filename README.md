@@ -1,6 +1,7 @@
 # Quantifying the Magnetic Connectivity and Uniformity in Planar Magnetic Arrays: A Graph Theory Approach
 
-![Overview](./Fig/Overview.png)
+![Flowchart](./Fig/Flowchart.png)
+![MKI Results](./Fig/MKI_Results.png)
 
 `-` A graph-based magnetic coupler model for rapid core arrangement exploration in IPT systems;
 
