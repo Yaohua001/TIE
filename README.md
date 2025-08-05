@@ -3,7 +3,7 @@
 ![Flowchart](./Fig/Flowchart.png)
 ![MKI_Results](./Fig/MKI_Results.png)
 
-`-` A graph-based magnetic coupler model for rapid core arrangement exploration in IPT systems;
+`-` A graph-based magnetic coupler model for rapid core arrangement exploration in inductive power transfer (IPT) systems;
 
 `-` Users can modify the structure and materials of magnetic cores to evaluate and optimize the magnetic flux connectivity and uniformity of planar magnetic cores for their specific design requirements;
 
